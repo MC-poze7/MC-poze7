@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é carioca
+nossos nome são Carioca e Enzo
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
